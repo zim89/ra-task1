@@ -1,0 +1,49 @@
+[
+  {
+    "id": "1",
+    "name": "Shopping list",
+    "created_at": "27.07.2023",
+    "category": "Task",
+    "content": "Mango, tomatos",
+    "dates": ["27.07.2023"]
+  },
+  {
+    "id": "2",
+    "name": "Learn TS",
+    "created_at": "07.07.2023",
+    "category": "Task",
+    "content": "Mango, tomatos",
+    "dates": ["07.08.2023"]
+  },
+  {
+    "id": "3",
+    "name": "Shakespeare",
+    "created_at": "17.05.2023",
+    "category": "Quote",
+    "content": "Be not afraid of greatness.",
+    "dates": []
+  },
+  {
+    "id": "4",
+    "name": "Repair phone",
+    "created_at": "17.07.2023",
+    "category": "Task",
+    "content": "By new instruments",
+    "dates": ["20.08.2023"]
+  },
+  {
+    "id": "5",
+    "name": "New  hobby",
+    "created_at": "17.07.2023",
+    "category": "Idea",
+    "content": "Kill 7 flies"
+  },
+  {
+    "id": "6",
+    "name": "Plato",
+    "created_at": "17.04.2023",
+    "category": "Quote",
+    "content": "Courage is knowing what not to fear",
+    "dates": []
+  }
+]
