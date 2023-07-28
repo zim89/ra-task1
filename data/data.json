@@ -2,48 +2,55 @@
   {
     "id": "1",
     "name": "Shopping list",
-    "created_at": "27.07.2023",
+    "created_at": "2023.07.10",
     "category": "Task",
     "content": "Mango, tomatos",
-    "dates": ["27.07.2023"]
+    "dates": [],
+    "isArchived": true
   },
   {
     "id": "2",
     "name": "Learn TS",
-    "created_at": "07.07.2023",
+    "created_at": "2023.07.07",
     "category": "Task",
     "content": "Mango, tomatos",
-    "dates": ["07.08.2023"]
+    "dates": ["2023.07.08"],
+    "isArchived": false
   },
   {
     "id": "3",
     "name": "Shakespeare",
-    "created_at": "17.05.2023",
+    "created_at": "2023.17.05",
     "category": "Quote",
     "content": "Be not afraid of greatness.",
-    "dates": []
+    "dates": [],
+    "isArchived": false
   },
   {
     "id": "4",
     "name": "Repair phone",
-    "created_at": "17.07.2023",
+    "created_at": "2023.17.07",
     "category": "Task",
     "content": "By new instruments",
-    "dates": ["20.08.2023"]
+    "dates": ["2023.08.20.08"],
+    "isArchived": false
   },
   {
     "id": "5",
     "name": "New  hobby",
-    "created_at": "17.07.2023",
+    "created_at": "2023.17.07",
     "category": "Idea",
-    "content": "Kill 7 flies"
+    "content": "Kill 7 flies",
+    "dates": [],
+    "isArchived": false
   },
   {
     "id": "6",
     "name": "Plato",
-    "created_at": "17.04.2023",
+    "created_at": "2023.17.04",
     "category": "Quote",
     "content": "Courage is knowing what not to fear",
-    "dates": []
+    "dates": [],
+    "isArchived": false
   }
 ]

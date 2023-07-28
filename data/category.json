@@ -1,6 +1,6 @@
 [
-  { "id": "1", "label": "Quote" },
-  { "id": "2", "label": "Task" },
+  { "id": "1", "label": "Task" },
+  { "id": "2", "label": "Quote" },
   { "id": "3", "label": "Idea" },
-  { "id": "4", "label": "Random" }
+  { "id": "4", "label": "Random thing" }
 ]
